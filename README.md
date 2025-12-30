@@ -28,7 +28,7 @@ I like to create websites so my focus is on Full Stack Web Development. <br>
 ## :hammer_and_wrench: Tools I learned and use
 ### Most relevant
 <div align='left'>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,express,md,latex,notion,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,nodejs,npm,express,mongodb,md,latex,notion,vscode&theme=dark" />
 </p>
 
 ### Others
